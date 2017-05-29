@@ -118,3 +118,5 @@ func (t *SimpleChaincode) read(stub shim.ChaincodeStubInterface, args[] string) 
 	
 	return valAsbytes, nil
 }
+
+//Testing commit
